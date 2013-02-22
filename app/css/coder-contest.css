@@ -1,3 +1,7 @@
+.ng-scope {
+  border: 2px dashed red
+}
+
 .nav {
   margin-top: 15px;
 }
