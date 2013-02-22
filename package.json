@@ -1,0 +1,22 @@
+{
+    "name":"joc-angular-workshop",
+    "version":"0.0.1",
+    "engines":{
+        "node":"0.8.x",
+        "npm":"1.1.x"
+    },
+    "contributors":[
+        {
+            "name":"Kees de Kooter",
+            "email":"kees@boplicity.nl"
+        },
+        {
+            "name":"Robin Roestenburg",
+            "email":"robin@roestenburg.io"
+        }
+    ],
+    "private":true,
+    "dependencies":{
+        "express":"3.x"
+    }
+}

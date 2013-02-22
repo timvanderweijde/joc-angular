@@ -1,0 +1,35 @@
+.nav {
+  margin-top: 15px;
+}
+
+.coder {
+  height: 300px;
+  cursor: pointer;
+
+  /* TODO: Create transparant version of logo. */
+  background-image: url('/app/img/logo.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+
+}
+
+.versus {
+  text-align: center;
+  padding-top: 140px;
+}
+
+.start-contest {
+  text-align: center;
+}
+
+.start-contest a {
+  width: 300px;
+
+}
+
+.highlight {
+  padding: 5px;
+  text-align: center;
+  -webkit-border-radius: 5px;
+  color: #dd4814;
+}

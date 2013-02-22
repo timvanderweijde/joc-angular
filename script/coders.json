@@ -1,0 +1,2298 @@
+[
+    {
+        "id":0,
+        "name":"Michael Abrash",
+        "wikipedia":"Michael_Abrash",
+        "description":"Michael Abrash - Popularized Mode X for DOS. This allows for faster video refresh and square pixels."
+    },
+    {
+        "id":1,
+        "name":"Scott Adams",
+        "wikipedia":"Scott_Adams_(game_designer)",
+        "description":"Scott Adams - one of earliest developers of CP/M and DOS games"
+    },
+    {
+        "id":2,
+        "name":"Leonard Adleman",
+        "wikipedia":"Leonard_Adleman",
+        "description":"Leonard Adleman - co-creator of RSA algorithm (the A in the name stands for Adleman), coined the term computer virus"
+    },
+    {
+        "id":3,
+        "name":"Alfred Aho",
+        "wikipedia":"Alfred_Aho",
+        "description":"Alfred Aho - co-creator of AWK (the A in the name stands for Aho), and main author of famous Dragon book"
+    },
+    {
+        "id":4,
+        "name":"JJ Allaire",
+        "wikipedia":"JJ_Allaire",
+        "description":"JJ Allaire - creator of ColdFusion Application Server, ColdFusion Markup Language"
+    },
+    {
+        "id":5,
+        "name":"Andrei Alexandrescu",
+        "wikipedia":"Andrei_Alexandrescu",
+        "description":"Andrei Alexandrescu - author, expert C++, D languages"
+    },
+    {
+        "id":6,
+        "name":"Paul Allen",
+        "wikipedia":"Paul_Allen",
+        "description":"Paul Allen - Altair BASIC, Applesoft BASIC, co-founded Microsoft"
+    },
+    {
+        "id":7,
+        "name":"Eric Allman",
+        "wikipedia":"Eric_Allman",
+        "description":"Eric Allman - sendmail, syslog"
+    },
+    {
+        "id":8,
+        "name":"Marc Andreessen",
+        "wikipedia":"Marc_Andreessen",
+        "description":"Marc Andreessen - co-creator of Mosaic, co-founder of Netscape"
+    },
+    {
+        "id":9,
+        "name":"Bill Atkinson",
+        "wikipedia":"Bill_Atkinson",
+        "description":"Bill Atkinson - QuickDraw, HyperCard"
+    },
+    {
+        "id":10,
+        "name":"John Backus",
+        "wikipedia":"John_Backus",
+        "description":"John Backus - FORTRAN, BNF"
+    },
+    {
+        "id":11,
+        "name":"Richard Bartle",
+        "wikipedia":"Richard_Bartle",
+        "description":"Richard Bartle - MUD, with Roy Trubshaw, creator of MUDs"
+    },
+    {
+        "id":12,
+        "name":"Brian Behlendorf",
+        "wikipedia":"Brian_Behlendorf",
+        "description":"Brian Behlendorf - Apache"
+    },
+    {
+        "id":13,
+        "name":"Kent Beck",
+        "wikipedia":"Kent_Beck",
+        "description":"Kent Beck - Created Extreme Programming and co-creator of JUnit"
+    },
+    {
+        "id":14,
+        "name":"Donald Becker",
+        "wikipedia":"Donald_Becker",
+        "description":"Donald Becker - Linux Ethernet drivers, Beowulf clustering"
+    },
+    {
+        "id":15,
+        "name":"Doug Bell",
+        "wikipedia":"Doug_Bell",
+        "description":"Doug Bell - Dungeon Master series of video games"
+    },
+    {
+        "id":16,
+        "name":"Fabrice Bellard",
+        "wikipedia":"Fabrice_Bellard",
+        "description":"Fabrice Bellard - Creator of FFMPEG open codec library, QEMU virtualization tools"
+    },
+    {
+        "id":17,
+        "name":"Tim Berners-Lee",
+        "wikipedia":"Tim_Berners-Lee",
+        "description":"Tim Berners-Lee - inventor of World Wide Web"
+    },
+    {
+        "id":18,
+        "name":"Daniel J. Bernstein",
+        "wikipedia":"Daniel_J._Bernstein",
+        "description":"Daniel J. Bernstein - djbdns, qmail"
+    },
+    {
+        "id":19,
+        "name":"Sabeer Bhatia",
+        "wikipedia":"Sabeer_Bhatia",
+        "description":"Sabeer Bhatia - Co-founded the Hotmail email service"
+    },
+    {
+        "id":20,
+        "name":"Eric Bina",
+        "wikipedia":"Eric_Bina",
+        "description":"Eric Bina - co-creator of Mosaic web browser"
+    },
+    {
+        "id":21,
+        "name":"Marc Blank",
+        "wikipedia":"Marc_Blank",
+        "description":"Marc Blank - co-creator of Zork"
+    },
+    {
+        "id":22,
+        "name":"Joshua Bloch",
+        "wikipedia":"Joshua_Bloch",
+        "description":"Joshua Bloch - core Java language designer, lead the Java collections framework project"
+    },
+    {
+        "id":23,
+        "name":"Grady Booch",
+        "wikipedia":"Grady_Booch",
+        "description":"Grady Booch - Co-creator of Unified Modeling Language"
+    },
+    {
+        "id":24,
+        "name":"Bert Bos",
+        "wikipedia":"Bert_Bos",
+        "description":"Bert Bos - author of Argo web browser, co-author of Cascading Style Sheets"
+    },
+    {
+        "id":25,
+        "name":"Stephen Bourne",
+        "wikipedia":"Stephen_Bourne",
+        "description":"Stephen Bourne - Creator of Bourne shell"
+    },
+    {
+        "id":26,
+        "name":"David Bradley",
+        "wikipedia":"David_Bradley_(engineer)",
+        "description":"David Bradley - coder on the IBM PC project team who wrote the Control-Alt-Delete keyboard handler, embedded in all PC-compatible BIOSes"
+    },
+    {
+        "id":27,
+        "name":"Andrew BraybrookParadroidUridium",
+        "wikipedia":"Andrew_Braybrook",
+        "description":"Andrew Braybrook - video games Paradroid and Uridium"
+    },
+    {
+        "id":28,
+        "name":"Larry Breed",
+        "wikipedia":"Lawrence_M._Breed",
+        "description":"Larry Breed - co-developer of APL\\360"
+    },
+    {
+        "id":29,
+        "name":"Jack E. Bresenham",
+        "wikipedia":"Jack_E._Bresenham",
+        "description":"Jack E. Bresenham - creator of Bresenham's line algorithm"
+    },
+    {
+        "id":30,
+        "name":"Dan Bricklin",
+        "wikipedia":"Dan_Bricklin",
+        "description":"Dan Bricklin - co-creator of VisiCalc, the first personal spreadsheet program"
+    },
+    {
+        "id":31,
+        "name":"Walter Bright",
+        "wikipedia":"Walter_Bright",
+        "description":"Walter Bright - Digital Mars, First C++ compiler, author of D (programming language)."
+    },
+    {
+        "id":32,
+        "name":"Richard Brodie",
+        "wikipedia":"Richard_Brodie_(programmer)",
+        "description":"Richard Brodie - Microsoft Word"
+    },
+    {
+        "id":33,
+        "name":"Andries Brouwerman(1)",
+        "wikipedia":"Andries_Brouwer",
+        "description":"Andries Brouwer - Hack, former maintainer of man pager man(1), Linux kernel hacker"
+    },
+    {
+        "id":34,
+        "name":"Danielle Bunten Berry",
+        "wikipedia":"Danielle_Bunten_Berry",
+        "description":"Danielle Bunten Berry (Dani Bunten) - M.U.L.E., multiplayer video game"
+    },
+    {
+        "id":35,
+        "name":"Dries Buytaert",
+        "wikipedia":"Dries_Buytaert",
+        "description":"Dries Buytaert - Creator of Drupal"
+    },
+    {
+        "id":36,
+        "name":"Steve Capps",
+        "wikipedia":"Steve_Capps",
+        "description":"Steve Capps - co-creator of Macintosh and Newton"
+    },
+    {
+        "id":37,
+        "name":"John D. CarmackDoomQuake",
+        "wikipedia":"John_D._Carmack",
+        "description":"John D. Carmack - first person shooters Doom, Quake"
+    },
+    {
+        "id":38,
+        "name":"Vinton Cerf",
+        "wikipedia":"Vinton_Cerf",
+        "description":"Vinton Cerf - TCP/IP, NCP"
+    },
+    {
+        "id":39,
+        "name":"Ward Christensen",
+        "wikipedia":"Ward_Christensen",
+        "description":"Ward Christensen - Wrote the first BBS (Bulletin Board System) system CBBS"
+    },
+    {
+        "id":40,
+        "name":"Edgar F. Codd",
+        "wikipedia":"Edgar_F._Codd",
+        "description":"Edgar F. Codd - principal architect of the relational model"
+    },
+    {
+        "id":41,
+        "name":"Bram Cohen",
+        "wikipedia":"Bram_Cohen",
+        "description":"Bram Cohen - BitTorrent protocol design and implementation"
+    },
+    {
+        "id":42,
+        "name":"Alain Colmerauer",
+        "wikipedia":"Alain_Colmerauer",
+        "description":"Alain Colmerauer - Prolog"
+    },
+    {
+        "id":43,
+        "name":"Alan Cooper",
+        "wikipedia":"Alan_Cooper",
+        "description":"Alan Cooper - Visual Basic"
+    },
+    {
+        "id":44,
+        "name":"Alan Cox",
+        "wikipedia":"Alan_Cox",
+        "description":"Alan Cox - co-developer of Linux kernel"
+    },
+    {
+        "id":45,
+        "name":"Brad Cox",
+        "wikipedia":"Brad_Cox",
+        "description":"Brad Cox - Objective-C"
+    },
+    {
+        "id":46,
+        "name":"Mike Cowlishaw",
+        "wikipedia":"Mike_Cowlishaw",
+        "description":"Mike Cowlishaw - REXX and NetRexx, LEXX editor, image processing, decimal arithmetic packages"
+    },
+    {
+        "id":47,
+        "name":"Mark Crispin",
+        "wikipedia":"Mark_Crispin",
+        "description":"Mark Crispin - creator of IMAP, author of UW-IMAP, one of reference implementations of IMAP4"
+    },
+    {
+        "id":48,
+        "name":"Ward Cunningham",
+        "wikipedia":"Ward_Cunningham",
+        "description":"Ward Cunningham - creator of Wiki concept"
+    },
+    {
+        "id":49,
+        "name":"William Crowther",
+        "wikipedia":"William_Crowther",
+        "description":"William Crowther - Colossal Cave Adventure"
+    },
+    {
+        "id":50,
+        "name":"Dave Cutler",
+        "wikipedia":"Dave_Cutler",
+        "description":"Dave Cutler - architect of VMS, Windows NT"
+    },
+    {
+        "id":51,
+        "name":"Ole-Johan Dahl",
+        "wikipedia":"Ole-Johan_Dahl",
+        "description":"Ole-Johan Dahl - co-creator of SIMULA"
+    },
+    {
+        "id":52,
+        "name":"James Duncan Davidson",
+        "wikipedia":"James_Duncan_Davidson",
+        "description":"James Duncan Davidson - creator of Tomcat, now part of Jakarta Project"
+    },
+    {
+        "id":53,
+        "name":"L. Peter Deutsch",
+        "wikipedia":"L._Peter_Deutsch",
+        "description":"L. Peter Deutsch - Ghostscript, Assembler for PDP-1, XDS-940 timesharing system, QED original co-author"
+    },
+    {
+        "id":54,
+        "name":"Edsger DijkstraGoto Statement Considered Harmful",
+        "wikipedia":"Edsger_Dijkstra",
+        "description":"Edsger Dijkstra - contributions to ALGOL, Dijkstra's algorithm, Goto Statement Considered Harmful"
+    },
+    {
+        "id":55,
+        "name":"Matt Dillon",
+        "wikipedia":"Matt_Dillon_(computer_scientist)",
+        "description":"Matt Dillon - programmer of various software including DICE and DragonflyBSD"
+    },
+    {
+        "id":56,
+        "name":"Martin Dougiamas",
+        "wikipedia":"Martin_Dougiamas",
+        "description":"Martin Dougiamas - creator and lead developer of Moodle"
+    },
+    {
+        "id":57,
+        "name":"Adam Dunkels",
+        "wikipedia":"Adam_Dunkels",
+        "description":"Adam Dunkels - author of Contiki operating system, the lwIP and uIP embedded TCP/IP stacks, inventor of protothreads"
+    },
+    {
+        "id":58,
+        "name":"Les Earnest",
+        "wikipedia":"Les_Earnest",
+        "description":"Les Earnest - author of finger program"
+    },
+    {
+        "id":59,
+        "name":"Brendan Eich",
+        "wikipedia":"Brendan_Eich",
+        "description":"Brendan Eich - creator of JavaScript"
+    },
+    {
+        "id":60,
+        "name":"Larry Ellison",
+        "wikipedia":"Larry_Ellison",
+        "description":"Larry Ellison - co-creator of Oracle database, co-founder of Oracle Corporation"
+    },
+    {
+        "id":61,
+        "name":"Marc Ewing",
+        "wikipedia":"Marc_Ewing",
+        "description":"Marc Ewing - creator of Red Hat Linux"
+    },
+    {
+        "id":62,
+        "name":"Dan Farmer",
+        "wikipedia":"Dan_Farmer",
+        "description":"Dan Farmer - Creator of COPS and Security Administrator Tool for Analyzing Networks (SATAN) Security Scanners"
+    },
+    {
+        "id":63,
+        "name":"Stuart Feldman",
+        "wikipedia":"Stuart_Feldman",
+        "description":"Stuart Feldman - creator of make, author of Fortran 77 compiler, part of original group that created Unix"
+    },
+    {
+        "id":64,
+        "name":"David Filo",
+        "wikipedia":"David_Filo",
+        "description":"David Filo - co-creator of Yahoo!"
+    },
+    {
+        "id":65,
+        "name":"Brad Fitzpatrick",
+        "wikipedia":"Brad_Fitzpatrick",
+        "description":"Brad Fitzpatrick - creator of memcached, Livejournal and OpenID"
+    },
+    {
+        "id":66,
+        "name":"Andrew Fluegelman",
+        "wikipedia":"Andrew_Fluegelman",
+        "description":"Andrew Fluegelman - author PC-Talk communications software; considered a co-creator of shareware"
+    },
+    {
+        "id":67,
+        "name":"Brian Fox",
+        "wikipedia":"Brian_Fox_(computer_programmer)",
+        "description":"Brian Fox - creator of Bash, Readline, GNU Finger, Meta-HTML"
+    },
+    {
+        "id":68,
+        "name":"Martin Fowler",
+        "wikipedia":"Martin_Fowler",
+        "description":"Martin Fowler - Creator of Dependency Injection pattern of software engineering , a form of Inversion of control"
+    },
+    {
+        "id":69,
+        "name":"Jim Fruchterman",
+        "wikipedia":"Jim_Fruchterman",
+        "description":"Jim Fruchterman - founder of Arkenstone (now part of Freedom Scientific) and Benetech, created scanners for blind people"
+    },
+    {
+        "id":70,
+        "name":"Elon Gasper",
+        "wikipedia":"Elon_Gasper",
+        "description":"Elon Gasper - co-founded Bright Star Technology, patented realistic facial movements for in-game speech. HyperAnimator, Alphabet Blocks, etc."
+    },
+    {
+        "id":71,
+        "name":"Bill Gates",
+        "wikipedia":"Bill_Gates",
+        "description":"Bill Gates - Altair BASIC, co-founded Microsoft"
+    },
+    {
+        "id":72,
+        "name":"Steve Gibson",
+        "wikipedia":"Steve_Gibson_(computer_programmer)",
+        "description":"Steve Gibson - creator of SpinRite"
+    },
+    {
+        "id":73,
+        "name":"John Gilmore",
+        "wikipedia":"John_Gilmore_(activist)",
+        "description":"John Gilmore - GDB"
+    },
+    {
+        "id":74,
+        "name":"Adele Goldberg",
+        "wikipedia":"Adele_Goldberg_(computer_scientist)",
+        "description":"Adele Goldberg - co-creator of Smalltalk"
+    },
+    {
+        "id":75,
+        "name":"Ryan C. Gordon",
+        "wikipedia":"Ryan_C._Gordon",
+        "description":"Ryan C. Gordon (a.k.a. Icculus) - Lokigames, ioquake3, MojoSetup, etc."
+    },
+    {
+        "id":76,
+        "name":"James Gosling",
+        "wikipedia":"James_Gosling",
+        "description":"James Gosling - Java, Gosling Emacs, NeWS"
+    },
+    {
+        "id":77,
+        "name":"Bill Gosper",
+        "wikipedia":"Bill_Gosper",
+        "description":"Bill Gosper - Macsyma, Lisp machine, hashlife, helped Donald Knuth on Vol.2 of The Art of Computer Programming (Semi-numerical algorithms)"
+    },
+    {
+        "id":78,
+        "name":"Andrew GowerRuneScape",
+        "wikipedia":"Andrew_Gower",
+        "description":"Andrew Gower - RuneScape Classic, RuneScape, co-founded Jagex"
+    },
+    {
+        "id":79,
+        "name":"Paul GowerRuneScape",
+        "wikipedia":"Paul_Gower",
+        "description":"Paul Gower - RuneScape Classic, RuneScape, co-founded Jagex"
+    },
+    {
+        "id":80,
+        "name":"Paul Graham",
+        "wikipedia":"Paul_Graham_(computer_programmer)",
+        "description":"Paul Graham - Yahoo! Store, On Lisp, ANSI Common Lisp"
+    },
+    {
+        "id":81,
+        "name":"John Graham-Cumming",
+        "wikipedia":"John_Graham-Cumming",
+        "description":"John Graham-Cumming - author of POPFile, a Bayesian filter-based e-mail classifier"
+    },
+    {
+        "id":82,
+        "name":"Ralph Griswold",
+        "wikipedia":"Ralph_Griswold",
+        "description":"Ralph Griswold - co-creator of SNOBOL, creator of Icon (programming language)"
+    },
+    {
+        "id":83,
+        "name":"Richard Greenblatt",
+        "wikipedia":"Richard_Greenblatt_(programmer)",
+        "description":"Richard Greenblatt - Lisp machine, Incompatible Timesharing System, MacHack"
+    },
+    {
+        "id":84,
+        "name":"Scott Guthrie",
+        "wikipedia":"Scott_Guthrie",
+        "description":"Scott Guthrie, (a.k.a. ScottGu) - ASP.NET Creator"
+    },
+    {
+        "id":85,
+        "name":"Andi Gutmans",
+        "wikipedia":"Andi_Gutmans",
+        "description":"Andi Gutmans - co-creator of PHP programming language"
+    },
+    {
+        "id":86,
+        "name":"Jim Hall",
+        "wikipedia":"Jim_Hall_(programmer)",
+        "description":"Jim Hall - started the FreeDOS project"
+    },
+    {
+        "id":87,
+        "name":"David Heinemeier Hansson",
+        "wikipedia":"David_Heinemeier_Hansson",
+        "description":"David Heinemeier Hansson - created the Ruby on Rails framework for developing web applications."
+    },
+    {
+        "id":88,
+        "name":"David Albert Huffman",
+        "wikipedia":"David_Albert_Huffman",
+        "description":"David Albert Huffman - created the Huffman Code compression algorithm."
+    },
+    {
+        "id":89,
+        "name":"Rebecca HeinemanDragon Wars",
+        "wikipedia":"Rebecca_Heineman",
+        "description":"Rebecca Heineman - Author of Bard's Tale III: Thief of Fate and Dragon Wars."
+    },
+    {
+        "id":90,
+        "name":"Anders Hejlsberg",
+        "wikipedia":"Anders_Hejlsberg",
+        "description":"Anders Hejlsberg - Turbo Pascal, Borland Delphi, C#"
+    },
+    {
+        "id":91,
+        "name":"Ted Henter",
+        "wikipedia":"Ted_Henter",
+        "description":"Ted Henter - founder of Henter-Joyce (now part of Freedom Scientific) creator of Jaws, screen reader software for blind people"
+    },
+    {
+        "id":92,
+        "name":"Andy Hertzfeld",
+        "wikipedia":"Andy_Hertzfeld",
+        "description":"Andy Hertzfeld - co-creator of Macintosh, co-founder of General Magic, co-founder of Eazel"
+    },
+    {
+        "id":93,
+        "name":"Rich Hickey",
+        "wikipedia":"Rich_Hickey",
+        "description":"Rich Hickey - creator of Clojure language"
+    },
+    {
+        "id":94,
+        "name":"D. Richard Hipp",
+        "wikipedia":"D._Richard_Hipp",
+        "description":"D. Richard Hipp - creator of SQLite"
+    },
+    {
+        "id":95,
+        "name":"C. A. R. Hoare",
+        "wikipedia":"C._A._R._Hoare",
+        "description":"C. A. R. Hoare - first implementation of quicksort, ALGOL 60 compiler, Communicating sequential processes"
+    },
+    {
+        "id":96,
+        "name":"James Holmes",
+        "wikipedia":"James_Holmes_(programmer)",
+        "description":"James Holmes - Committer on Struts project, create of Struts Console"
+    },
+    {
+        "id":97,
+        "name":"Grace Hopper",
+        "wikipedia":"Grace_Hopper",
+        "description":"Grace Hopper - Harvard Mark I computer, FLOW-MATIC, COBOL"
+    },
+    {
+        "id":98,
+        "name":"Dave Hyatt",
+        "wikipedia":"Dave_Hyatt",
+        "description":"Dave Hyatt - co-author of Mozilla Firefox"
+    },
+    {
+        "id":99,
+        "name":"Miguel de Icaza",
+        "wikipedia":"Miguel_de_Icaza",
+        "description":"Miguel de Icaza - GNOME project leader, initiator of Mono project"
+    },
+    {
+        "id":100,
+        "name":"Roberto Ierusalimschy",
+        "wikipedia":"Roberto_Ierusalimschy",
+        "description":"Roberto Ierusalimschy - Lua leading architect"
+    },
+    {
+        "id":101,
+        "name":"Dan Ingalls",
+        "wikipedia":"Dan_Ingalls",
+        "description":"Dan Ingalls - co-creator of Smalltalk and Bitblt"
+    },
+    {
+        "id":102,
+        "name":"Geir Ivarsøy",
+        "wikipedia":"Geir_Ivars%C3%B8y",
+        "description":"Geir Ivarsøy - co-creator of Opera web browser"
+    },
+    {
+        "id":103,
+        "name":"Ken Iverson",
+        "wikipedia":"Kenneth_E._Iverson",
+        "description":"Ken Iverson - APL, J"
+    },
+    {
+        "id":104,
+        "name":"Toru Iwatani",
+        "wikipedia":"Toru_Iwatani",
+        "description":"Toru Iwatani - creator of Pac-Man"
+    },
+    {
+        "id":105,
+        "name":"Bo Jangeborg",
+        "wikipedia":"Bo_Jangeborg",
+        "description":"Bo Jangeborg - Sinclair ZX Spectrum games"
+    },
+    {
+        "id":106,
+        "name":"Paul Jardetzky",
+        "wikipedia":"Paul_Jardetzky",
+        "description":"Paul Jardetzky - author of server program for the first webcam"
+    },
+    {
+        "id":107,
+        "name":"Lynne Jolitz",
+        "wikipedia":"Lynne_Jolitz",
+        "description":"Lynne Jolitz - 386BSD"
+    },
+    {
+        "id":108,
+        "name":"William Jolitz",
+        "wikipedia":"William_Jolitz",
+        "description":"William Jolitz - 386BSD"
+    },
+    {
+        "id":109,
+        "name":"Stephen C. Johnson",
+        "wikipedia":"Stephen_C._Johnson",
+        "description":"Stephen C. Johnson - yacc"
+    },
+    {
+        "id":110,
+        "name":"Bill Joy",
+        "wikipedia":"Bill_Joy",
+        "description":"Bill Joy - BSD, csh, vi, co-founder of Sun Microsystems"
+    },
+    {
+        "id":111,
+        "name":"Robert K. Jung",
+        "wikipedia":"Robert_K._Jung",
+        "description":"Robert K. Jung - creator of ARJ"
+    },
+    {
+        "id":112,
+        "name":"Poul-Henning Kamp",
+        "wikipedia":"Poul-Henning_Kamp",
+        "description":"Poul-Henning Kamp - MD5 password hash algorithm, FreeBSD GEOM and GBDE, part of the UFS2, FreeBSD Jails, malloc and the Beerware license"
+    },
+    {
+        "id":113,
+        "name":"Mitch Kapor",
+        "wikipedia":"Mitch_Kapor",
+        "description":"Mitch Kapor - Lotus 1-2-3, founded Lotus Development Corporation"
+    },
+    {
+        "id":114,
+        "name":"Phil Katz",
+        "wikipedia":"Phil_Katz",
+        "description":"Phil Katz - creator of ZIP file format, author of PKZIP"
+    },
+    {
+        "id":115,
+        "name":"Alan Kay",
+        "wikipedia":"Alan_Kay",
+        "description":"Alan Kay - Smalltalk, Dynabook, Object-oriented programming, Squeak"
+    },
+    {
+        "id":116,
+        "name":"Mel Kaye[1]",
+        "wikipedia":"Mel_Kaye",
+        "description":"Mel Kaye - a real programmer[1]"
+    },
+    {
+        "id":117,
+        "name":"John Kemeny",
+        "wikipedia":"John_George_Kemeny",
+        "description":"John Kemeny - co-creator of BASIC"
+    },
+    {
+        "id":118,
+        "name":"Stan Kelly-BootleThe Devil's DP Dictionary",
+        "wikipedia":"Stan_Kelly-Bootle",
+        "description":"Stan Kelly-Bootle - Manchester Mark 1, The Devil's DP Dictionary"
+    },
+    {
+        "id":119,
+        "name":"Brian Kernighan",
+        "wikipedia":"Brian_Kernighan",
+        "description":"Brian Kernighan - co-creator of AWK (the K in the name stands for Kernighan), author of ditroff text-formatting tool"
+    },
+    {
+        "id":120,
+        "name":"Gary Kildall",
+        "wikipedia":"Gary_Kildall",
+        "description":"Gary Kildall - CP/M"
+    },
+    {
+        "id":121,
+        "name":"Tom Knight",
+        "wikipedia":"Tom_Knight_(scientist)",
+        "description":"Tom Knight - Incompatible Timesharing System"
+    },
+    {
+        "id":122,
+        "name":"Jim Knopf",
+        "wikipedia":"Jim_Knopf",
+        "description":"Jim Knopf - aka Jim Button, author PC-File flatfile database; considered a co-creator of shareware"
+    },
+    {
+        "id":123,
+        "name":"Donald E. KnuthThe Art of Computer Programming",
+        "wikipedia":"Donald_E._Knuth",
+        "description":"Donald E. Knuth - TeX, CWEB, Metafont, The Art of Computer Programming, Concrete Mathematics"
+    },
+    {
+        "id":124,
+        "name":"Andrew R. Koenig",
+        "wikipedia":"Andrew_Koenig_(programmer)",
+        "description":"Andrew R. Koenig - (co-)author of books on C and C++ and former Project Editor of the ISO/ANSI standards committee for C++"
+    },
+    {
+        "id":125,
+        "name":"Andre LaMothe",
+        "wikipedia":"Andre_LaMothe",
+        "description":"Andre LaMothe- LaMothe is the creator of the XGameStation,one of the world's first video game console development kits"
+    },
+    {
+        "id":126,
+        "name":"Tom Lane",
+        "wikipedia":"Tom_Lane_(Open_Source_Software_Developer)",
+        "description":"Tom Lane - primary author of libjpeg, major developer of PostgreSQL"
+    },
+    {
+        "id":127,
+        "name":"Leslie Lamport",
+        "wikipedia":"Leslie_Lamport",
+        "description":"Leslie Lamport - LaTeX"
+    },
+    {
+        "id":128,
+        "name":"Butler Lampson",
+        "wikipedia":"Butler_Lampson",
+        "description":"Butler Lampson - QED original co-author"
+    },
+    {
+        "id":129,
+        "name":"Sam Lantinga",
+        "wikipedia":"Sam_Lantinga",
+        "description":"Sam Lantinga - creator of SDL"
+    },
+    {
+        "id":130,
+        "name":"Dick Lathwell",
+        "wikipedia":"Richard_H._Lathwell",
+        "description":"Dick Lathwell - co-developer of APL\\360"
+    },
+    {
+        "id":131,
+        "name":"Chris Lattner",
+        "wikipedia":"Chris_Lattner",
+        "description":"Chris Lattner - primary author of Low Level Virtual Machine project"
+    },
+    {
+        "id":132,
+        "name":"Samuel J Leffler",
+        "wikipedia":"Samuel_J_Leffler",
+        "description":"Samuel J Leffler - BSD, FlexFAX, libtiff, FreeBSD Wireless Device Drivers"
+    },
+    {
+        "id":133,
+        "name":"Rasmus Lerdorf",
+        "wikipedia":"Rasmus_Lerdorf",
+        "description":"Rasmus Lerdorf - original creator of PHP"
+    },
+    {
+        "id":134,
+        "name":"Michael Lesk",
+        "wikipedia":"Michael_Lesk",
+        "description":"Michael Lesk - Lex"
+    },
+    {
+        "id":135,
+        "name":"Gordon Letwin",
+        "wikipedia":"Gordon_Letwin",
+        "description":"Gordon Letwin - Architect of OS/2, author of HPFS file system"
+    },
+    {
+        "id":136,
+        "name":"Rockford Lhotka",
+        "wikipedia":"Rockford_Lhotka",
+        "description":"Rockford Lhotka - Creator of the CSLA framework"
+    },
+    {
+        "id":137,
+        "name":"Håkon Wium Lie",
+        "wikipedia":"H%C3%A5kon_Wium_Lie",
+        "description":"Håkon Wium Lie - co-author of Cascading Style Sheets"
+    },
+    {
+        "id":138,
+        "name":"Robert Love",
+        "wikipedia":"Robert_Love",
+        "description":"Robert Love - Linux kernel developer"
+    },
+    {
+        "id":139,
+        "name":"Ada Lovelace",
+        "wikipedia":"Ada_Lovelace",
+        "description":"Ada Lovelace - First programmer (of Charles Babbages' Analytical Engine)"
+    },
+    {
+        "id":140,
+        "name":"Al Lowe",
+        "wikipedia":"Al_Lowe",
+        "description":"Al Lowe - creator of Leisure Suit Larry series"
+    },
+    {
+        "id":141,
+        "name":"Raphael Manfredi",
+        "wikipedia":"Raphael_Manfredi",
+        "description":"Raphael Manfredi - contributions to Perl, software architect and maintainer of gtk-gnutella"
+    },
+    {
+        "id":142,
+        "name":"Khaled Mardam-Bey",
+        "wikipedia":"Khaled_Mardam-Bey",
+        "description":"Khaled Mardam-Bey - Creator of mIRC (Internet Relay Chat Client)"
+    },
+    {
+        "id":143,
+        "name":"Yukihiro Matsumoto",
+        "wikipedia":"Yukihiro_Matsumoto",
+        "description":"Yukihiro Matsumoto - Ruby"
+    },
+    {
+        "id":144,
+        "name":"John McCarthy",
+        "wikipedia":"John_McCarthy_(computer_scientist)",
+        "description":"John McCarthy - Lisp"
+    },
+    {
+        "id":145,
+        "name":"Craig McClanahan",
+        "wikipedia":"Craig_McClanahan",
+        "description":"Craig McClanahan - original author of Jakarta Struts, architect of Tomcat Catalina servlet container"
+    },
+    {
+        "id":146,
+        "name":"Daniel D. McCrackenAlgolCobolFortran",
+        "wikipedia":"Daniel_D._McCracken",
+        "description":"Daniel D. McCracken - professor at City College and author of Guide to Algol Programming, Guide to Cobol Programming, Guide to Fortran Programming (1957)"
+    },
+    {
+        "id":147,
+        "name":"Douglas McIlroy",
+        "wikipedia":"Douglas_McIlroy",
+        "description":"Douglas McIlroy - pipes and filters, concept of software componentry, Unix tools (spell, diff, sort, join, graph, speak, tr, etc.)"
+    },
+    {
+        "id":148,
+        "name":"Shawn McKenzie",
+        "wikipedia":"Shawn_McKenzie",
+        "description":"Shawn McKenzie - AutoTheme"
+    },
+    {
+        "id":149,
+        "name":"Marshall Kirk McKusick",
+        "wikipedia":"Marshall_Kirk_McKusick",
+        "description":"Marshall Kirk McKusick - BSD, work on FFS, implementor of soft updates"
+    },
+    {
+        "id":150,
+        "name":"Bertrand MeyerObject-oriented Software Construction",
+        "wikipedia":"Bertrand_Meyer",
+        "description":"Bertrand Meyer - Eiffel, Object-oriented Software Construction, Design by contract"
+    },
+    {
+        "id":151,
+        "name":"Scott Meyers",
+        "wikipedia":"Scott_Meyers",
+        "description":"Scott Meyers - author, software consultant, C++ expert"
+    },
+    {
+        "id":152,
+        "name":"Bob Miner",
+        "wikipedia":"Bob_Miner",
+        "description":"Bob Miner - co-creator of Oracle database, co-founder of Oracle Corporation"
+    },
+    {
+        "id":153,
+        "name":"Jeff Minter",
+        "wikipedia":"Jeff_Minter",
+        "description":"Jeff Minter - Psychedelic, and often llama-related video game"
+    },
+    {
+        "id":154,
+        "name":"Lou Montulli",
+        "wikipedia":"Lou_Montulli",
+        "description":"Lou Montulli - creator of Lynx browser, cookies, the blink tag, server push and client pull, HTTP proxying, HTTP over SSL, browser integration with animated GIFs, founding member of HTML working group at W3C"
+    },
+    {
+        "id":155,
+        "name":"Bram Moolenaar",
+        "wikipedia":"Bram_Moolenaar",
+        "description":"Bram Moolenaar - author of text-editor Vim"
+    },
+    {
+        "id":156,
+        "name":"David Moon",
+        "wikipedia":"David_Moon",
+        "description":"David Moon - Maclisp, ZetaLisp"
+    },
+    {
+        "id":157,
+        "name":"Charles H. Moore",
+        "wikipedia":"Charles_H._Moore",
+        "description":"Charles H. Moore - creator of Forth language"
+    },
+    {
+        "id":158,
+        "name":"Roger Moore",
+        "wikipedia":"Roger_Moore_(computer_scientist)",
+        "description":"Roger Moore - co-developer of APL\\360, creator of IPSANET, co-founder of I.P. Sharp Associates"
+    },
+    {
+        "id":159,
+        "name":"Mike Muuss",
+        "wikipedia":"Mike_Muuss",
+        "description":"Mike Muuss - author of ping, network tool to detect hosts"
+    },
+    {
+        "id":160,
+        "name":"Patrick Naughton",
+        "wikipedia":"Patrick_Naughton",
+        "description":"Patrick Naughton - early Java designer, xlock, HotJava"
+    },
+    {
+        "id":161,
+        "name":"Peter Naur",
+        "wikipedia":"Peter_Naur",
+        "description":"Peter Naur - Backus-Naur form, ALGOL 60"
+    },
+    {
+        "id":162,
+        "name":"Fredrik Neij",
+        "wikipedia":"Fredrik_Neij",
+        "description":"Fredrik Neij - co-creator of The Pirate Bay"
+    },
+    {
+        "id":163,
+        "name":"Graham Nelson",
+        "wikipedia":"Graham_Nelson",
+        "description":"Graham Nelson - creator of Inform authoring system for Interactive fiction"
+    },
+    {
+        "id":164,
+        "name":"Peter Norton",
+        "wikipedia":"Peter_Norton",
+        "description":"Peter Norton - programmer of the famous utility program, Norton Utilities"
+    },
+    {
+        "id":165,
+        "name":"Kristen Nygaard",
+        "wikipedia":"Kristen_Nygaard",
+        "description":"Kristen Nygaard - SIMULA"
+    },
+    {
+        "id":166,
+        "name":"Ed Oates",
+        "wikipedia":"Ed_Oates",
+        "description":"Ed Oates - co-creator of Oracle database, co-founder of Oracle Corporation"
+    },
+    {
+        "id":167,
+        "name":"Martin Odersky",
+        "wikipedia":"Martin_Odersky",
+        "description":"Martin Odersky - Scala"
+    },
+    {
+        "id":168,
+        "name":"Jarkko Oikarinen",
+        "wikipedia":"Jarkko_Oikarinen",
+        "description":"Jarkko Oikarinen - creator of Internet Relay Chat (IRC)"
+    },
+    {
+        "id":169,
+        "name":"Andrew and Philip Oliver",
+        "wikipedia":"Oliver_Twins",
+        "description":"Andrew and Philip Oliver, The Oliver Twins - Many Sinclair ZX Spectrum games including Dizzy"
+    },
+    {
+        "id":170,
+        "name":"John Ousterhout",
+        "wikipedia":"John_Ousterhout",
+        "description":"John Ousterhout - creator of Tcl/Tk"
+    },
+    {
+        "id":171,
+        "name":"Onel de Guzman",
+        "wikipedia":"Onel_de_Guzman",
+        "description":"Onel de Guzman - A Filipino Programmer who created the ILOVEYOU virus on May 4, 2000."
+    },
+    {
+        "id":172,
+        "name":"Larry Page",
+        "wikipedia":"Larry_Page",
+        "description":"Larry Page - Co-founder of Google, Inc."
+    },
+    {
+        "id":173,
+        "name":"Alexey Pajitnov",
+        "wikipedia":"Alexey_Pajitnov",
+        "description":"Alexey Pajitnov - creator of game Tetris on Electronica 60"
+    },
+    {
+        "id":174,
+        "name":"Seymour Papert",
+        "wikipedia":"Seymour_Papert",
+        "description":"Seymour Papert - Logo (programming language)"
+    },
+    {
+        "id":175,
+        "name":"Tim Paterson",
+        "wikipedia":"Tim_Paterson",
+        "description":"Tim Paterson - author of 86-DOS (QDOS)"
+    },
+    {
+        "id":176,
+        "name":"Markus Persson",
+        "wikipedia":"Markus_Persson",
+        "description":"Markus Persson - Creator of Minecraft"
+    },
+    {
+        "id":177,
+        "name":"Jeffrey Peterson",
+        "wikipedia":"Jeffrey_Peterson",
+        "description":"Jeffrey Peterson - key free and open source software architect, creator of Quepasa"
+    },
+    {
+        "id":178,
+        "name":"Charles Petzold",
+        "wikipedia":"Charles_Petzold",
+        "description":"Charles Petzold - author of many Microsoft Windows programming books"
+    },
+    {
+        "id":179,
+        "name":"Rob Pike",
+        "wikipedia":"Rob_Pike",
+        "description":"Rob Pike - Wrote first bitmapped window system for Unix, co-creator of UTF-8 character encoding, author of text editor sam and programming environment acme, main author of Plan 9 and Inferno operating systems, and co-author of the Go (programming language)"
+    },
+    {
+        "id":180,
+        "name":"Kent Pitman",
+        "wikipedia":"Kent_Pitman",
+        "description":"Kent Pitman - technical contributor to the ANSI Common Lisp standard"
+    },
+    {
+        "id":181,
+        "name":"Theo de Raadt",
+        "wikipedia":"Theo_de_Raadt",
+        "description":"Theo de Raadt - Founding member of NetBSD, founder of OpenBSD and OpenSSH"
+    },
+    {
+        "id":182,
+        "name":"Jef Raskin",
+        "wikipedia":"Jef_Raskin",
+        "description":"Jef Raskin - started the Macintosh project in Apple Computer, designed Canon Cat computer, developed The Humane Environment program"
+    },
+    {
+        "id":183,
+        "name":"Eric Raymond",
+        "wikipedia":"Eric_S._Raymond",
+        "description":"Eric Raymond - Open Source movement, author of fetchmail"
+    },
+    {
+        "id":184,
+        "name":"Hans Reiser",
+        "wikipedia":"Hans_Reiser",
+        "description":"Hans Reiser - Creator of ReiserFS file system."
+    },
+    {
+        "id":185,
+        "name":"John Resig",
+        "wikipedia":"John_Resig",
+        "description":"John Resig - Creator and lead developer of jQuery JavaScript library"
+    },
+    {
+        "id":186,
+        "name":"Craig Reynolds",
+        "wikipedia":"Craig_Reynolds_(computer_graphics)",
+        "description":"Craig Reynolds - Creator of boids computer graphics simulation"
+    },
+    {
+        "id":187,
+        "name":"Dennis Ritchie",
+        "wikipedia":"Dennis_Ritchie",
+        "description":"Dennis Ritchie - C, Unix, Plan 9 from Bell Labs, Inferno"
+    },
+    {
+        "id":188,
+        "name":"Ron Rivest",
+        "wikipedia":"Ron_Rivest",
+        "description":"Ron Rivest - co-creator of RSA algorithm (the R in the name stands for Rivest)"
+    },
+    {
+        "id":189,
+        "name":"John RomeroDoom",
+        "wikipedia":"John_Romero",
+        "description":"John Romero - first person shooters Doom, Quake"
+    },
+    {
+        "id":190,
+        "name":"Blake Ross",
+        "wikipedia":"Blake_Ross",
+        "description":"Blake Ross - co-author of Mozilla Firefox"
+    },
+    {
+        "id":191,
+        "name":"Guido van Rossum",
+        "wikipedia":"Guido_van_Rossum",
+        "description":"Guido van Rossum - Python"
+    },
+    {
+        "id":192,
+        "name":"Jeff Rulifson",
+        "wikipedia":"Jeff_Rulifson",
+        "description":"Jeff Rulifson - Lead programmer on the NLS project"
+    },
+    {
+        "id":193,
+        "name":"Rusty Russell",
+        "wikipedia":"Rusty_Russell",
+        "description":"Rusty Russell - Creator of iptables for linux"
+    },
+    {
+        "id":194,
+        "name":"Steve Russell",
+        "wikipedia":"Steve_Russell",
+        "description":"Steve Russell - First Lisp interpreter; original Spacewar! graphic video game."
+    },
+    {
+        "id":195,
+        "name":"Bob Sabiston",
+        "wikipedia":"Bob_Sabiston",
+        "description":"Bob Sabiston - Rotoshop, interpolating rotoscope animation software"
+    },
+    {
+        "id":196,
+        "name":"Muni Sakya",
+        "wikipedia":"Muni_Sakya",
+        "description":"Muni Sakya - Nepalese software"
+    },
+    {
+        "id":197,
+        "name":"Carl Sassenrath",
+        "wikipedia":"Carl_Sassenrath",
+        "description":"Carl Sassenrath - Amiga, REBOL"
+    },
+    {
+        "id":198,
+        "name":"Chris Sawyer",
+        "wikipedia":"Chris_Sawyer",
+        "description":"Chris Sawyer - Developer of Roller Coaster Tycoon and the Transport Tycoon series"
+    },
+    {
+        "id":199,
+        "name":"Bill Schelter",
+        "wikipedia":"Bill_Schelter",
+        "description":"Bill Schelter - GNU Maxima, GNU Common Lisp"
+    },
+    {
+        "id":200,
+        "name":"Randal L. Schwartz",
+        "wikipedia":"Randal_L._Schwartz",
+        "description":"Randal L. Schwartz - Just another Perl hacker"
+    },
+    {
+        "id":201,
+        "name":"Adi Shamir",
+        "wikipedia":"Adi_Shamir",
+        "description":"Adi Shamir - co-creator of RSA algorithm (the S in the name stands for Shamir)"
+    },
+    {
+        "id":202,
+        "name":"Mike Shaver",
+        "wikipedia":"Mike_Shaver",
+        "description":"Mike Shaver - Founding member of Mozilla Organization"
+    },
+    {
+        "id":203,
+        "name":"Cliff Shaw",
+        "wikipedia":"Cliff_Shaw",
+        "description":"Cliff Shaw - IPL, the first AI language"
+    },
+    {
+        "id":204,
+        "name":"Zed Shaw",
+        "wikipedia":"Zed_Shaw",
+        "description":"Zed Shaw - Wrote the Mongrel Web Server, for Ruby web applications."
+    },
+    {
+        "id":205,
+        "name":"Emily Short",
+        "wikipedia":"Emily_Short",
+        "description":"Emily Short - prolific writer of Interactive fiction and co-developer of Inform version 7"
+    },
+    {
+        "id":206,
+        "name":"Jacek Sieka",
+        "wikipedia":"Jacek_Sieka",
+        "description":"Jacek Sieka - Developer of DC++ an open-source, peer-to-peer file-sharing client"
+    },
+    {
+        "id":207,
+        "name":"Ken Silverman",
+        "wikipedia":"Ken_Silverman",
+        "description":"Ken Silverman - creator of Duke Nukem 3D's graphics engine"
+    },
+    {
+        "id":208,
+        "name":"Charles Simonyi",
+        "wikipedia":"Charles_Simonyi",
+        "description":"Charles Simonyi - Hungarian notation, Microsoft Word"
+    },
+    {
+        "id":209,
+        "name":"Colin Simpson",
+        "wikipedia":"Colin_Simpson_(electronics_professor)",
+        "description":"Colin Simpson - developer of CircuitLogix simulation software"
+    },
+    {
+        "id":210,
+        "name":"Rich Skrenta",
+        "wikipedia":"Rich_Skrenta",
+        "description":"Rich Skrenta - co-founder of Open Directory Project"
+    },
+    {
+        "id":211,
+        "name":"Matthew Smith",
+        "wikipedia":"Matthew_Smith_(games_programmer)",
+        "description":"Matthew Smith - Sinclair ZX Spectrum games, including Manic Miner and Jet Set Willy"
+    },
+    {
+        "id":212,
+        "name":"Henry Spencer",
+        "wikipedia":"Henry_Spencer",
+        "description":"Henry Spencer - C News, Regex"
+    },
+    {
+        "id":213,
+        "name":"Joel Spolsky",
+        "wikipedia":"Joel_Spolsky",
+        "description":"Joel Spolsky - Co-founder of Fog Creek Software and Stack Overflow"
+    },
+    {
+        "id":214,
+        "name":"Quentin Stafford-Fraser",
+        "wikipedia":"Quentin_Stafford-Fraser",
+        "description":"Quentin Stafford-Fraser - author of original VNC viewer, first Windows VNC server, client program for the first webcam"
+    },
+    {
+        "id":215,
+        "name":"Richard Stallman",
+        "wikipedia":"Richard_Stallman",
+        "description":"Richard Stallman - Emacs, GCC, GDB, founder and pioneer of GNU Project, terminal-independent I/O pioneer on ITS, Lisp machine manual"
+    },
+    {
+        "id":216,
+        "name":"Guy Steele",
+        "wikipedia":"Guy_Steele",
+        "description":"Guy Steele - Common Lisp, Scheme, Java"
+    },
+    {
+        "id":217,
+        "name":"Alexander Stepanov",
+        "wikipedia":"Alexander_Stepanov",
+        "description":"Alexander Stepanov - Creator of Standard Template Library"
+    },
+    {
+        "id":218,
+        "name":"Ludvig Strigeus",
+        "wikipedia":"Ludvig_Strigeus",
+        "description":"Ludvig Strigeus - Creator of uTorrent, OpenTTD, ScummVM and the technology behind Spotify"
+    },
+    {
+        "id":219,
+        "name":"Bjarne Stroustrup",
+        "wikipedia":"Bjarne_Stroustrup",
+        "description":"Bjarne Stroustrup - Creator of C++"
+    },
+    {
+        "id":220,
+        "name":"Zeev Suraski",
+        "wikipedia":"Zeev_Suraski",
+        "description":"Zeev Suraski - co-creator of PHP language"
+    },
+    {
+        "id":221,
+        "name":"Gerald Jay Sussman",
+        "wikipedia":"Gerald_Jay_Sussman",
+        "description":"Gerald Jay Sussman - Scheme"
+    },
+    {
+        "id":222,
+        "name":"Herb Sutter",
+        "wikipedia":"Herb_Sutter",
+        "description":"Herb Sutter - Chair of the ISO C++ standards committee and C++ expert."
+    },
+    {
+        "id":223,
+        "name":"Gottfrid Svartholm",
+        "wikipedia":"Gottfrid_Svartholm",
+        "description":"Gottfrid Svartholm - co-creator of The Pirate Bay"
+    },
+    {
+        "id":224,
+        "name":"Tim Sweeney",
+        "wikipedia":"Tim_Sweeney_(game_developer)",
+        "description":"Tim Sweeney - The Unreal engine, UnrealScript, ZZT"
+    },
+    {
+        "id":225,
+        "name":"Andrew Tanenbaum",
+        "wikipedia":"Andrew_S._Tanenbaum",
+        "description":"Andrew Tanenbaum - Minix"
+    },
+    {
+        "id":226,
+        "name":"Audrey \"Autrijus\" Tang",
+        "wikipedia":"Audrey_Tang",
+        "description":"Audrey \"Autrijus\" Tang - designer of Pugs"
+    },
+    {
+        "id":227,
+        "name":"Simon Tatham",
+        "wikipedia":"Simon_Tatham",
+        "description":"Simon Tatham - NASM, PuTTY"
+    },
+    {
+        "id":228,
+        "name":"Larry Tesler",
+        "wikipedia":"Larry_Tesler",
+        "description":"Larry Tesler - the PUB markup language, the Smalltalk code browser, debugger and object inspector, and (with Tim Mott) the Gypsy word processor"
+    },
+    {
+        "id":229,
+        "name":"Jon Stephenson von Tetzchner",
+        "wikipedia":"Jon_Stephenson_von_Tetzchner",
+        "description":"Jon Stephenson von Tetzchner - co-creator of Opera web browser"
+    },
+    {
+        "id":230,
+        "name":"Avie Tevanian",
+        "wikipedia":"Avie_Tevanian",
+        "description":"Avie Tevanian - author of Mach kernel"
+    },
+    {
+        "id":231,
+        "name":"Ken Thompson",
+        "wikipedia":"Ken_Thompson_(computer_programmer)",
+        "description":"Ken Thompson - main designer and author of Unix, Plan 9 and Inferno operating systems, B and Bon languages (precursors of C), creator of UTF-8 character encoding, introduced regular expressions in QED and co-author of the Go (programming language)"
+    },
+    {
+        "id":232,
+        "name":"Michael Tiemann",
+        "wikipedia":"Michael_Tiemann",
+        "description":"Michael Tiemann - G++, GCC"
+    },
+    {
+        "id":233,
+        "name":"Linus Torvalds",
+        "wikipedia":"Linus_Torvalds",
+        "description":"Linus Torvalds - original author and current maintainer of Linux kernel and creator of Git, a source code management system"
+    },
+    {
+        "id":234,
+        "name":"Michael Toy",
+        "wikipedia":"Michael_Toy",
+        "description":"Michael Toy - co-developer of video game Rogue"
+    },
+    {
+        "id":235,
+        "name":"Andrew Tridgell",
+        "wikipedia":"Andrew_Tridgell",
+        "description":"Andrew Tridgell - Samba, Rsync"
+    },
+    {
+        "id":236,
+        "name":"Roy Trubshaw",
+        "wikipedia":"Roy_Trubshaw",
+        "description":"Roy Trubshaw - MUD - together with Richard Bartle, creator of MUDs"
+    },
+    {
+        "id":237,
+        "name":"Bob Truel",
+        "wikipedia":"Bob_Truel",
+        "description":"Bob Truel - co-founder of Open Directory Project"
+    },
+    {
+        "id":238,
+        "name":"Wietse Venema",
+        "wikipedia":"Wietse_Venema",
+        "description":"Wietse Venema - Postfix, Security Administrator Tool for Analyzing Networks (SATAN), TCP Wrapper"
+    },
+    {
+        "id":239,
+        "name":"Paul Vixie",
+        "wikipedia":"Paul_Vixie",
+        "description":"Paul Vixie - BIND, Cron"
+    },
+    {
+        "id":240,
+        "name":"Patrick Volkerding",
+        "wikipedia":"Patrick_Volkerding",
+        "description":"Patrick Volkerding - Original author and the current maintainer of Slackware Linux Distribution"
+    },
+    {
+        "id":241,
+        "name":"Larry Wall",
+        "wikipedia":"Larry_Wall",
+        "description":"Larry Wall - Warp (1980s space-war game), rn, patch, Perl"
+    },
+    {
+        "id":242,
+        "name":"Bob Wallace",
+        "wikipedia":"Bob_Wallace",
+        "description":"Bob Wallace - author PC-Write word processor; considered a co-creator of shareware"
+    },
+    {
+        "id":243,
+        "name":"John Walker",
+        "wikipedia":"John_Walker_(programmer)",
+        "description":"John Walker - co-founder of Autodesk"
+    },
+    {
+        "id":244,
+        "name":"John Warnock",
+        "wikipedia":"John_Warnock",
+        "description":"John Warnock - creator of PostScript"
+    },
+    {
+        "id":245,
+        "name":"Robert Watson",
+        "wikipedia":"Robert_Watson_(computer_scientist)",
+        "description":"Robert Watson - FreeBSD network stack parallelism, TrustedBSD project and OpenBSM"
+    },
+    {
+        "id":246,
+        "name":"Pei-Yuan Wei",
+        "wikipedia":"Pei-Yuan_Wei",
+        "description":"Pei-Yuan Wei - author of Viola, one of earliest graphical browsers"
+    },
+    {
+        "id":247,
+        "name":"Peter J. Weinberger",
+        "wikipedia":"Peter_J._Weinberger",
+        "description":"Peter J. Weinberger - co-creator of AWK (the W in the name stands for Weinberger)"
+    },
+    {
+        "id":248,
+        "name":"Andrew Welch",
+        "wikipedia":"Andrew_Welch",
+        "description":"Andrew Welch - author of Maelstrom, Snapz Pro; founder of Ambrosia Software"
+    },
+    {
+        "id":249,
+        "name":"David Wheeler",
+        "wikipedia":"David_Wheeler_(computer_scientist)",
+        "description":"David Wheeler - co-creator of subroutine; designer of WAKE; co-designer of Tiny Encryption Algorithm, XTEA, Burrows-Wheeler transform."
+    },
+    {
+        "id":250,
+        "name":"Arthur Whitney",
+        "wikipedia":"Arthur_Whitney_(computer_scientist)",
+        "description":"Arthur Whitney - A+, K"
+    },
+    {
+        "id":251,
+        "name":"Bruce Wilcox",
+        "wikipedia":"Bruce_Wilcox",
+        "description":"Bruce Wilcox - creator of Computer Go, programmed NEMESIS Go Master."
+    },
+    {
+        "id":252,
+        "name":"Evan Williams",
+        "wikipedia":"Evan_Williams_(blogger)",
+        "description":"Evan Williams Creator and co-founder of Twitter"
+    },
+    {
+        "id":253,
+        "name":"Roberta",
+        "wikipedia":"Roberta_Williams",
+        "description":"Roberta and Ken Williams -- Sierra Entertainment, King's Quest, graphic adventure game"
+    },
+    {
+        "id":254,
+        "name":"Sophie Wilson",
+        "wikipedia":"Sophie_Wilson",
+        "description":"Sophie Wilson - Designer of instruction set for Acorn RISC Machine, author of BBC BASIC."
+    },
+    {
+        "id":255,
+        "name":"Dave Winer",
+        "wikipedia":"Dave_Winer",
+        "description":"Dave Winer - developed XML-RPC, Frontier scripting language"
+    },
+    {
+        "id":256,
+        "name":"Niklaus Wirth",
+        "wikipedia":"Niklaus_Wirth",
+        "description":"Niklaus Wirth - Pascal, Modula-2, Oberon"
+    },
+    {
+        "id":257,
+        "name":"Stephen Wolfram",
+        "wikipedia":"Stephen_Wolfram",
+        "description":"Stephen Wolfram - creator of Mathematica"
+    },
+    {
+        "id":258,
+        "name":"Don Woods",
+        "wikipedia":"Don_Woods_(programmer)",
+        "description":"Don Woods - INTERCAL, Colossal Cave Adventure"
+    },
+    {
+        "id":259,
+        "name":"Steve Wozniak",
+        "wikipedia":"Steve_Wozniak",
+        "description":"Steve Wozniak - Breakout, Apple Integer BASIC, co-founder of Apple Inc."
+    },
+    {
+        "id":260,
+        "name":"Will Wright",
+        "wikipedia":"Will_Wright_(game_designer)",
+        "description":"Will Wright - Created the Sim City series and co-founded Maxis"
+    },
+    {
+        "id":261,
+        "name":"Jerry Yang",
+        "wikipedia":"Jerry_Yang_(entrepreneur)",
+        "description":"Jerry Yang - co-creator of Yahoo!"
+    },
+    {
+        "id":262,
+        "name":"Victor Yngve",
+        "wikipedia":"Victor_Yngve",
+        "description":"Victor Yngve - author of first string processing language, COMIT"
+    },
+    {
+        "id":263,
+        "name":"Jamie Zawinski",
+        "wikipedia":"Jamie_Zawinski",
+        "description":"Jamie Zawinski - Lucid Emacs, Netscape, Mozilla, XScreenSaver"
+    },
+    {
+        "id":264,
+        "name":"Philip Zimmermann",
+        "wikipedia":"Philip_Zimmermann",
+        "description":"Philip Zimmermann - creator of encryption software PGP, the ZRTP protocol, and Zfone"
+    },
+    {
+        "id":265,
+        "name":"Mark Zuckerberg",
+        "wikipedia":"Mark_Zuckerberg",
+        "description":"Mark Zuckerberg - Creator of Facebook"
+    },
+    {
+        "id":266,
+        "name":"Robin Roestenburg",
+        "description":"Robin Roestenburg - Presenter"
+    },
+    {
+        "id":267,
+        "name":"Jettro Coenradie",
+        "description":"Jettro Coenradie - Presenter"
+    },
+    {
+        "id":268,
+        "name":"Kees de Kooter",
+        "description":"Kees de Kooter - Presenter"
+    },
+    {
+        "id":"300",
+        "name":"Claudia Vicol",
+        "description":"Claudia Vicol - Joyful coder"
+    },
+    {
+        "id":"301",
+        "name":"Erik van Oosten",
+        "description":"Erik van Oosten - Joyful coder"
+    },
+    {
+        "id":"302",
+        "name":"Rickard Lindberg",
+        "description":"Rickard Lindberg - Joyful coder"
+    },
+    {
+        "id":"303",
+        "name":"Kajsa Goffrich",
+        "description":"Kajsa Goffrich - Joyful coder"
+    },
+    {
+        "id":"304",
+        "name":"Sam Brodkin",
+        "description":"Sam Brodkin - Joyful coder"
+    },
+    {
+        "id":"305",
+        "name":"Ferry de Boer",
+        "description":"Ferry de Boer - Joyful coder"
+    },
+    {
+        "id":"306",
+        "name":"Bram Janssens",
+        "description":"Bram Janssens - Joyful coder"
+    },
+    {
+        "id":"307",
+        "name":"Adolfo Benedetti",
+        "description":"Adolfo Benedetti - Joyful coder"
+    },
+    {
+        "id":"308",
+        "name":"Robert van Rijn",
+        "description":"Robert van Rijn - Joyful coder"
+    },
+    {
+        "id":"309",
+        "name":"Steven van Deursen",
+        "description":"Steven van Deursen - Joyful coder"
+    },
+    {
+        "id":"310",
+        "name":"Agnieszka Pawliszyn",
+        "description":"Agnieszka Pawliszyn - Joyful coder"
+    },
+    {
+        "id":"311",
+        "name":"Arjen van Schie",
+        "description":"Arjen van Schie - Joyful coder"
+    },
+    {
+        "id":"312",
+        "name":"János Kendi",
+        "description":"János Kendi - Joyful coder"
+    },
+    {
+        "id":"313",
+        "name":"Tamás Csizmazia",
+        "description":"Tamás Csizmazia - Joyful coder"
+    },
+    {
+        "id":"314",
+        "name":"Rita Veréb Rábelné",
+        "description":"Rita Veréb Rábelné - Joyful coder"
+    },
+    {
+        "id":"315",
+        "name":"Zsuzsanna Szabó",
+        "description":"Zsuzsanna Szabó - Joyful coder"
+    },
+    {
+        "id":"316",
+        "name":"István Fajth",
+        "description":"István Fajth - Joyful coder"
+    },
+    {
+        "id":"317",
+        "name":"Julien Biezemans",
+        "description":"Julien Biezemans - Joyful coder"
+    },
+    {
+        "id":"318",
+        "name":"Jelle Hissink",
+        "description":"Jelle Hissink - Joyful coder"
+    },
+    {
+        "id":"319",
+        "name":"Sander Smeman",
+        "description":"Sander Smeman - Joyful coder"
+    },
+    {
+        "id":"320",
+        "name":"Frank Kurstjens",
+        "description":"Frank Kurstjens - Joyful coder"
+    },
+    {
+        "id":"321",
+        "name":"Daniël Zwijnenburg",
+        "description":"Daniël Zwijnenburg - Joyful coder"
+    },
+    {
+        "id":"322",
+        "name":"Kees Klerk",
+        "description":"Kees Klerk - Joyful coder"
+    },
+    {
+        "id":"323",
+        "name":"Auke van Leeuwen",
+        "description":"Auke van Leeuwen - Joyful coder"
+    },
+    {
+        "id":"324",
+        "name":"Ton Swieb",
+        "description":"Ton Swieb - Joyful coder"
+    },
+    {
+        "id":"325",
+        "name":"Roel van Dijk",
+        "description":"Roel van Dijk - Joyful coder"
+    },
+    {
+        "id":"326",
+        "name":"Ruben Hartog",
+        "description":"Ruben Hartog - Joyful coder"
+    },
+    {
+        "id":"327",
+        "name":"Sander Lissenburg",
+        "description":"Sander Lissenburg - Joyful coder"
+    },
+    {
+        "id":"328",
+        "name":"Marc-Jan Banhoorn",
+        "description":"Marc-Jan Banhoorn - Joyful coder"
+    },
+    {
+        "id":"329",
+        "name":"Patrick Langendoen",
+        "description":"Patrick Langendoen - Joyful coder"
+    },
+    {
+        "id":"330",
+        "name":"Joris Meijer",
+        "description":"Joris Meijer - Joyful coder"
+    },
+    {
+        "id":"331",
+        "name":"Pascal Van Cauwenberghe",
+        "description":"Pascal Van Cauwenberghe - Joyful coder"
+    },
+    {
+        "id":"332",
+        "name":"Patrick Wildenborg",
+        "description":"Patrick Wildenborg - Joyful coder"
+    },
+    {
+        "id":"333",
+        "name":"Mark Horsthuis",
+        "description":"Mark Horsthuis - Joyful coder"
+    },
+    {
+        "id":"334",
+        "name":"Egbert Teeselink",
+        "description":"Egbert Teeselink - Joyful coder"
+    },
+    {
+        "id":"335",
+        "name":"Péter Ferenczy",
+        "description":"Péter Ferenczy - Joyful coder"
+    },
+    {
+        "id":"336",
+        "name":"Péter Kozma",
+        "description":"Péter Kozma - Joyful coder"
+    },
+    {
+        "id":"337",
+        "name":"Balázs Szerencsi",
+        "description":"Balázs Szerencsi - Joyful coder"
+    },
+    {
+        "id":"338",
+        "name":"Rico Huijbers",
+        "description":"Rico Huijbers - Joyful coder"
+    },
+    {
+        "id":"339",
+        "name":"Stefano Masini",
+        "description":"Stefano Masini - Joyful coder"
+    },
+    {
+        "id":"340",
+        "name":"Pascal van Gemert",
+        "description":"Pascal van Gemert - Joyful coder"
+    },
+    {
+        "id":"341",
+        "name":"Jan Toebes",
+        "description":"Jan Toebes - Joyful coder"
+    },
+    {
+        "id":"342",
+        "name":"Ronald Haring",
+        "description":"Ronald Haring - Joyful coder"
+    },
+    {
+        "id":"343",
+        "name":"Angela Sjöholm",
+        "description":"Angela Sjöholm - Joyful coder"
+    },
+    {
+        "id":"344",
+        "name":"Robert-Jan Kuijvenhoven",
+        "description":"Robert-Jan Kuijvenhoven - Joyful coder"
+    },
+    {
+        "id":"345",
+        "name":"Philippe Tjon-A-Hen",
+        "description":"Philippe Tjon-A-Hen - Joyful coder"
+    },
+    {
+        "id":"346",
+        "name":"Steven Kroon",
+        "description":"Steven Kroon - Joyful coder"
+    },
+    {
+        "id":"347",
+        "name":"Luise Ravnskjær",
+        "description":"Luise Ravnskjær - Joyful coder"
+    },
+    {
+        "id":"348",
+        "name":"Wouter van der Graaf",
+        "description":"Wouter van der Graaf - Joyful coder"
+    },
+    {
+        "id":"349",
+        "name":"Jeroen Visser",
+        "description":"Jeroen Visser - Joyful coder"
+    },
+    {
+        "id":"350",
+        "name":"Tijs Teulings",
+        "description":"Tijs Teulings - Joyful coder"
+    },
+    {
+        "id":"351",
+        "name":"Ludovico Fischer",
+        "description":"Ludovico Fischer - Joyful coder"
+    },
+    {
+        "id":"352",
+        "name":"Petrik de Heus",
+        "description":"Petrik de Heus - Joyful coder"
+    },
+    {
+        "id":"353",
+        "name":"Remko de Jong",
+        "description":"Remko de Jong - Joyful coder"
+    },
+    {
+        "id":"354",
+        "name":"Jason Fagan",
+        "description":"Jason Fagan - Joyful coder"
+    },
+    {
+        "id":"355",
+        "name":"Jouke Stoel",
+        "description":"Jouke Stoel - Joyful coder"
+    },
+    {
+        "id":"356",
+        "name":"Shiva Schroders-Shirali",
+        "description":"Shiva Schroders-Shirali - Joyful coder"
+    },
+    {
+        "id":"357",
+        "name":"Mark Schroders",
+        "description":"Mark Schroders - Joyful coder"
+    },
+    {
+        "id":"358",
+        "name":"Stephan van Stekelenburg",
+        "description":"Stephan van Stekelenburg - Joyful coder"
+    },
+    {
+        "id":"359",
+        "name":"Troels Wittrup",
+        "description":"Troels Wittrup - Joyful coder"
+    },
+    {
+        "id":"360",
+        "name":"Tim van der Weijde",
+        "description":"Tim van der Weijde - Joyful coder"
+    },
+    {
+        "id":"361",
+        "name":"Eric Jan Malotaux",
+        "description":"Eric Jan Malotaux - Joyful coder"
+    },
+    {
+        "id":"362",
+        "name":"Sander Ufkes",
+        "description":"Sander Ufkes - Joyful coder"
+    },
+    {
+        "id":"363",
+        "name":"Wolfert De Kraker",
+        "description":"Wolfert De Kraker - Joyful coder"
+    },
+    {
+        "id":"364",
+        "name":"Bas van Westing",
+        "description":"Bas van Westing - Joyful coder"
+    },
+    {
+        "id":"365",
+        "name":"Jeroen Ruijgers",
+        "description":"Jeroen Ruijgers - Joyful coder"
+    },
+    {
+        "id":"366",
+        "name":"Maurice Zeijen",
+        "description":"Maurice Zeijen - Joyful coder"
+    },
+    {
+        "id":"367",
+        "name":"Maarten Dirkse",
+        "description":"Maarten Dirkse - Joyful coder"
+    },
+    {
+        "id":"368",
+        "name":"Frank Kootte",
+        "description":"Frank Kootte - Joyful coder"
+    },
+    {
+        "id":"369",
+        "name":"Martin Weidner",
+        "description":"Martin Weidner - Joyful coder"
+    },
+    {
+        "id":"370",
+        "name":"Jeroen Rosenberg",
+        "description":"Jeroen Rosenberg - Joyful coder"
+    },
+    {
+        "id":"371",
+        "name":"Giorgio Vinci",
+        "description":"Giorgio Vinci - Joyful coder"
+    },
+    {
+        "id":"372",
+        "name":"Machiel Groeneveld",
+        "description":"Machiel Groeneveld - Joyful coder"
+    },
+    {
+        "id":"373",
+        "name":"Frank Mantek",
+        "description":"Frank Mantek - Joyful coder"
+    },
+    {
+        "id":"374",
+        "name":"Elmer Torensma",
+        "description":"Elmer Torensma - Joyful coder"
+    },
+    {
+        "id":"375",
+        "name":"Eric Bouwers",
+        "description":"Eric Bouwers - Joyful coder"
+    },
+    {
+        "id":"376",
+        "name":"Peter Reitsma",
+        "description":"Peter Reitsma - Joyful coder"
+    },
+    {
+        "id":"377",
+        "name":"Stijn Van Vreckem",
+        "description":"Stijn Van Vreckem - Joyful coder"
+    },
+    {
+        "id":"378",
+        "name":"Stijn Pint",
+        "description":"Stijn Pint - Joyful coder"
+    },
+    {
+        "id":"379",
+        "name":"Maurizio Pedriale",
+        "description":"Maurizio Pedriale - Joyful coder"
+    },
+    {
+        "id":"380",
+        "name":"Peter Coulton",
+        "description":"Peter Coulton - Joyful coder"
+    },
+    {
+        "id":"381",
+        "name":"Jeroen van der Meer",
+        "description":"Jeroen van der Meer - Joyful coder"
+    },
+    {
+        "id":"382",
+        "name":"Keesjan van Bunningen",
+        "description":"Keesjan van Bunningen - Joyful coder"
+    },
+    {
+        "id":"383",
+        "name":"Marco Mooijekind",
+        "description":"Marco Mooijekind - Joyful coder"
+    },
+    {
+        "id":"384",
+        "name":"Mark van Straten",
+        "description":"Mark van Straten - Joyful coder"
+    },
+    {
+        "id":"385",
+        "name":"Mathias Verraes",
+        "description":"Mathias Verraes - Joyful coder"
+    },
+    {
+        "id":"386",
+        "name":"Viktor Grgic",
+        "description":"Viktor Grgic - Joyful coder"
+    },
+    {
+        "id":"387",
+        "name":"Rogier Goede",
+        "description":"Rogier Goede - Joyful coder"
+    },
+    {
+        "id":"388",
+        "name":"Jan Paul Posma",
+        "description":"Jan Paul Posma - Joyful coder"
+    },
+    {
+        "id":"389",
+        "name":"Marten Veldthuis",
+        "description":"Marten Veldthuis - Joyful coder"
+    },
+    {
+        "id":"390",
+        "name":"Jeroen Soeters",
+        "description":"Jeroen Soeters - Joyful coder"
+    },
+    {
+        "id":"391",
+        "name":"Jeroen Reijn",
+        "description":"Jeroen Reijn - Joyful coder"
+    },
+    {
+        "id":"392",
+        "name":"Tom de Vries",
+        "description":"Tom de Vries - Joyful coder"
+    },
+    {
+        "id":"393",
+        "name":"Francis De Brabandere",
+        "description":"Francis De Brabandere - Joyful coder"
+    },
+    {
+        "id":"394",
+        "name":"Anne Veling",
+        "description":"Anne Veling - Joyful coder"
+    },
+    {
+        "id":"395",
+        "name":"Bart Schuller",
+        "description":"Bart Schuller - Joyful coder"
+    },
+    {
+        "id":"396",
+        "name":"Herman Peeren",
+        "description":"Herman Peeren - Joyful coder"
+    },
+    {
+        "id":"397",
+        "name":"Pieter van Harmelen",
+        "description":"Pieter van Harmelen - Joyful coder"
+    },
+    {
+        "id":"398",
+        "name":"Jan Deelstra",
+        "description":"Jan Deelstra - Joyful coder"
+    },
+    {
+        "id":"399",
+        "name":"Angelo van der Sijpt",
+        "description":"Angelo van der Sijpt - Joyful coder"
+    },
+    {
+        "id":"400",
+        "name":"Mark IJbema",
+        "description":"Mark IJbema - Joyful coder"
+    },
+    {
+        "id":"401",
+        "name":"Gerben Kegel",
+        "description":"Gerben Kegel - Joyful coder"
+    },
+    {
+        "id":"402",
+        "name":"Marten Deinum",
+        "description":"Marten Deinum - Joyful coder"
+    },
+    {
+        "id":"403",
+        "name":"Linda van der Pal",
+        "description":"Linda van der Pal - Joyful coder"
+    },
+    {
+        "id":"404",
+        "name":"George van Veen",
+        "description":"George van Veen - Joyful coder"
+    },
+    {
+        "id":"405",
+        "name":"Jeroen van Schagen",
+        "description":"Jeroen van Schagen - Joyful coder"
+    },
+    {
+        "id":"406",
+        "name":"Erik Hooijmeijer",
+        "description":"Erik Hooijmeijer - Joyful coder"
+    },
+    {
+        "id":"407",
+        "name":"Wiebe van Ginkel",
+        "description":"Wiebe van Ginkel - Joyful coder"
+    },
+    {
+        "id":"408",
+        "name":"Ilona Bregard",
+        "description":"Ilona Bregard - Joyful coder"
+    },
+    {
+        "id":"409",
+        "name":"Dave van Eijck",
+        "description":"Dave van Eijck - Joyful coder"
+    },
+    {
+        "id":"410",
+        "name":"Igmar Palsenberg",
+        "description":"Igmar Palsenberg - Joyful coder"
+    },
+    {
+        "id":"411",
+        "name":"Xavier Defrang",
+        "description":"Xavier Defrang - Joyful coder"
+    },
+    {
+        "id":"412",
+        "name":"Yuri Leikind",
+        "description":"Yuri Leikind - Joyful coder"
+    },
+    {
+        "id":"413",
+        "name":"Nicole Bekkers",
+        "description":"Nicole Bekkers - Joyful coder"
+    },
+    {
+        "id":"414",
+        "name":"Bart de Boer",
+        "description":"Bart de Boer - Joyful coder"
+    },
+    {
+        "id":"415",
+        "name":"Stefan van Raaphorst",
+        "description":"Stefan van Raaphorst - Joyful coder"
+    },
+    {
+        "id":"416",
+        "name":"Dennis Doomen",
+        "description":"Dennis Doomen - Joyful coder"
+    },
+    {
+        "id":"417",
+        "name":"Marcel van Ommen",
+        "description":"Marcel van Ommen - Joyful coder"
+    },
+    {
+        "id":"418",
+        "name":"Erik Mulder",
+        "description":"Erik Mulder - Joyful coder"
+    },
+    {
+        "id":"419",
+        "name":"Tjeerd Hans Terpstra",
+        "description":"Tjeerd Hans Terpstra - Joyful coder"
+    },
+    {
+        "id":"420",
+        "name":"Frits Ankersmit",
+        "description":"Frits Ankersmit - Joyful coder"
+    },
+    {
+        "id":"421",
+        "name":"Marcel Matthijs",
+        "description":"Marcel Matthijs - Joyful coder"
+    },
+    {
+        "id":"422",
+        "name":"Arjan Borst",
+        "description":"Arjan Borst - Joyful coder"
+    },
+    {
+        "id":"423",
+        "name":"Jonne Kats",
+        "description":"Jonne Kats - Joyful coder"
+    },
+    {
+        "id":"424",
+        "name":"Michel van den Berg",
+        "description":"Michel van den Berg - Joyful coder"
+    },
+    {
+        "id":"425",
+        "name":"Daan van Berkel",
+        "description":"Daan van Berkel - Joyful coder"
+    },
+    {
+        "id":"426",
+        "name":"Mark van Venrooij",
+        "description":"Mark van Venrooij - Joyful coder"
+    },
+    {
+        "id":"427",
+        "name":"Matthijs Holsbrink",
+        "description":"Matthijs Holsbrink - Joyful coder"
+    },
+    {
+        "id":"428",
+        "name":"Gert-Jan van der Wel",
+        "description":"Gert-Jan van der Wel - Joyful coder"
+    },
+    {
+        "id":"429",
+        "name":"Vincent van Gemert",
+        "description":"Vincent van Gemert - Joyful coder"
+    },
+    {
+        "id":"430",
+        "name":"Tim Knip",
+        "description":"Tim Knip - Joyful coder"
+    },
+    {
+        "id":"431",
+        "name":"Valentin Bichkovsky",
+        "description":"Valentin Bichkovsky - Joyful coder"
+    },
+    {
+        "id":"432",
+        "name":"Sarah Li",
+        "description":"Sarah Li - Joyful coder"
+    },
+    {
+        "id":"433",
+        "name":"Stefan Moschinski",
+        "description":"Stefan Moschinski - Joyful coder"
+    },
+    {
+        "id":"434",
+        "name":"Peter Kalkman",
+        "description":"Peter Kalkman - Joyful coder"
+    },
+    {
+        "id":"435",
+        "name":"Freek Leemhuis",
+        "description":"Freek Leemhuis - Joyful coder"
+    },
+    {
+        "id":"436",
+        "name":"Jacques Bouman",
+        "description":"Jacques Bouman - Joyful coder"
+    }
+]
