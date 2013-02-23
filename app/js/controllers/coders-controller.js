@@ -10,8 +10,7 @@ coderContest.controller('CodersController', function($scope) {
   ];
 
   $scope.vote = function(coder) {
-    var index = $scope.coders.indexOf(coder);
-    $scope.coders[index].votes += 1;
+    coder.votes += 1;
   };
 
 });
