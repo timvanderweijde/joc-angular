@@ -22,19 +22,19 @@
           <h4>Top Coders</h4>
           <ul>
             <li ng-repeat="coder in coders">
-              {{ coder.name }} has {{ coder.votes }} votes.
-              <button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button>
+            {{ coder.name }} has {{ coder.votes }} votes.
+            <button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button>
             </li>
           </ul>
 
-        </span>
+        </div>
+      </div>
+
+      <div class="footer">
+        <p>&copy; Joy of Coding</p>
       </div>
 
     </div>
-    <div class="footer">
-      <p>&copy; Joy of Coding</p>
-    </div>
-
     <script src="lib/jquery/jquery.js"></script>
     <script src="lib/bootstrap/bootstrap.js"></script>
     <script src="lib/angular/angular.js"></script>
