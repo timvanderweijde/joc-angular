@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/coder-contest.css" rel="stylesheet" media="screen"/>
   </head>
 
-  <body ng-app="coderContest">
+  <body>
     <div class="container">
 
       <div class="row">
@@ -41,6 +41,37 @@
 
     <script src="js/coder-contest.js"></script>
     <script src="js/controllers/coders-controller.js"></script>
+
+    <script>
+      window.onload = function() {
+
+        var $rootElement = angular.element(window.document);
+
+        var modules = [
+          'ng',
+          'coderContest',
+          function($provide) {
+            $provide.value('$rootElement', $rootElement);
+          }
+        ];
+
+        var $injector = angular.injector(modules);
+        console.log('Injector created...', $injector);
+
+        var $compile = $injector.get('$compile');
+        console.log('Loaded compile...');
+
+        var compositeLinkFn = $compile($rootElement);
+        console.log('Linking function created...');
+
+        var $rootScope = $injector.get('$rootScope');
+        compositeLinkFn($rootScope);
+        console.log('Executed linking function with $rootScope...');
+
+        $rootScope.$apply();
+
+      };
+    </script>
 
   </body>
 </html>
