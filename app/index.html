@@ -10,17 +10,16 @@
   <body ng-app="coderContest">
     <div class="container">
 
-      <div class="row">
+      <div class="row-fluid">
         <div class="span4">
-            <h3 class="muted">Coder Contest</h3>
+          <h3 class="muted">Coder Contest</h3>
         </div>
 
-          <ul class="nav nav-pills pull-right">
-              <li><a active-menu href="#/home">Home</a></li>
-              <li><a active-menu href="#/coders">All coders</a></li>
-              <li><a active-menu href="#/about">About</a></li>
-          </ul>
-
+        <ul class="nav nav-pills pull-right">
+          <li><a active-menu href="#/home">Home</a></li>
+          <li><a active-menu href="#/coders">All coders</a></li>
+          <li><a active-menu href="#/about">About</a></li>
+        </ul>
       </div>
 
       <div ng-view></div>
@@ -30,6 +29,7 @@
       </div>
 
     </div>
+
     <script src="lib/jquery/jquery.js"></script>
     <script src="lib/bootstrap/bootstrap.js"></script>
     <script src="lib/angular/angular.js"></script>
@@ -39,6 +39,8 @@
     <script src="js/controllers/coder-detail-controller.js"></script>
     <script src="js/filters/wikipedia-link.js"></script>
     <script src="js/directives/active-menu.js"></script>
+    <script src="js/services/loads-coders.js"></script>
+    <script src="js/services/coder.js"></script>
 
   </body>
 </html>
