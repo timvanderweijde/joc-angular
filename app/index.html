@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" ng-app="coderContest">
+<html lang="en">
 
   <head>
     <title>CoderContest | Joy of Coding AngularJS Workshop</title>
@@ -10,8 +10,17 @@
   <body ng-app="coderContest">
     <div class="container">
 
-      <div class="row-fluid">
-        <div class="span4"><h3 class="muted">Coder Contest</h3></div>
+      <div class="row">
+        <div class="span4">
+            <h3 class="muted">Coder Contest</h3>
+        </div>
+
+          <ul class="nav nav-pills pull-right">
+              <li><a href="#/home">Home</a></li>
+              <li><a href="#/coders">All coders</a></li>
+              <li><a href="#/about">About</a></li>
+          </ul>
+
       </div>
 
       <div ng-view></div>
@@ -27,6 +36,8 @@
 
     <script src="js/coder-contest.js"></script>
     <script src="js/controllers/coders-controller.js"></script>
+    <script src="js/controllers/coder-detail-controller.js"></script>
+    <script src="js/filters/wikipedia-link.js"></script>
 
   </body>
 </html>
