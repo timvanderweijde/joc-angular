@@ -1,18 +1,19 @@
 'use strict';
 
-coderContest.controller('CodersController', function($scope) {
+coderContest.controller('CodersController', function($scope, $http) {
 
   $scope.participants = 42;
 
-  $scope.coders = [
-    { name: "Martin Eich",   votes: 0 },
-    { name: "Martin Fowler", votes: 0 },
-    { name: "Kent Beck",     votes: 0 },
-    { name: "Steve Wozniak", votes: 0 }
-  ];
+  $scope.coders = $http.get('/coders').then(function(response) {
+    return response.data;
+  });
 
   $scope.vote = function(coder) {
-    coder.votes += 1;
+    $http
+      .put('/coders/' + coder.id + '/vote')
+      .then(function(response) {
+        coder.votes = response.data;
+      });
   };
 
 });
