@@ -33,13 +33,28 @@ exports.removeCoder = function(req, res, next) {
   res.send(200);
 };
 
-// Vote for a coder
-exports.vote = function(req, res, next) {
+// Vote function for ngResource
+exports.ngResourceVote = function(req, res, next) {
 
   coders.forEach(function(coder) {
 
     if (coder.id+'' === req.param('id')) {
       coder.votes = Number(req.param('votes'));
+      res.send(200, JSON.stringify(coder));
+      return;
+    }
+  });
+
+  res.send(404);
+};
+
+// Vote function for $http
+exports.httpVote = function(req, res, next) {
+
+  coders.forEach(function(coder) {
+
+    if (coder.id+'' === req.param('id')) {
+      coder.votes += 1;
       res.send(200, JSON.stringify(coder));
       return;
     }

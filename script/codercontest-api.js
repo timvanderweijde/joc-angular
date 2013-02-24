@@ -34,7 +34,10 @@ var router = {
   '/coders/:id': {
     get: coderContestRoutes.coder,
     'delete': coderContestRoutes.removeCoder,
-    post: coderContestRoutes.vote
+    post: coderContestRoutes.ngResourceVote
+  },
+  '/coders/:id/vote': {
+    put: coderContestRoutes.httpVote
   }
 };
 sys.log('Loaded routes...');
