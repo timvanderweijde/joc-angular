@@ -18,12 +18,18 @@
           <th>Votes</th>
           <th>Name</th>
           <th></th>
+          <th></th>
         </tr>
       </thead>
       <tr ng-repeat="coder in coders | orderBy:'name' | filter:search">
         <td>{{ coder.votes }}</td>
         <td><a href="#/coders/{{ coder.id }}">{{ coder.name | uppercase }}</a></td>
         <td><button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button></td>
+        <td>
+          <a class="btn btn-mini btn-primary"
+             href="{{ coder.wikipedia | wikipediaLink }}"
+             ng-show="coder.wikipedia">Wikipedia</a>
+        </td>
       </tr>
     </table>
 
