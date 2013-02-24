@@ -14,7 +14,7 @@
         </thead>
         <tr ng-repeat="coder in coders">
           <td>{{ coder.votes }}</td>
-          <td>{{ coder.name }}</td>
+          <td><a href="#/coders/{{coder.id}}">{{ coder.name }}</a></td>
           <td><button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</vote></td>
         </tr>
       </table>

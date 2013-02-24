@@ -11,16 +11,19 @@
     <div class="container">
 
       <div class="row">
-        <div class="span4"><h3 class="muted">Coder Contest</h3></div>
-        <ul class="nav nav-pills pull-right">
-            <li><a active-menu href="#/home">Home</a></li>
-            <li><a active-menu href="#/about">About</a></li>
-        </ul>
+        <div class="span4">
+            <h3 class="muted">Coder Contest</h3>
+        </div>
+
+          <ul class="nav nav-pills pull-right">
+              <li><a href="#/home">Home</a></li>
+              <li><a href="#/coders">All coders</a></li>
+              <li><a href="#/about">About</a></li>
+          </ul>
+
       </div>
 
-      <div class="row">
-        <ng-view></ng-view>
-      </div>
+      <div ng-view></div>
 
       <div class="footer">
         <p>&copy; Joy of Coding</p>
@@ -33,6 +36,7 @@
 
     <script src="js/coder-contest.js"></script>
     <script src="js/controllers/coders-controller.js"></script>
+    <script src="js/controllers/coder-detail-controller.js"></script>
 
   </body>
 </html>
