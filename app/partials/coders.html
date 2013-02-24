@@ -6,22 +6,21 @@
 
     <div class="highlight page-header">
       <h3>TOP CODERS</h3>
-    </div>
-
-    <table class="table table-bordered table-striped table-hover">
-      <thead>
-        <tr>
-          <th>Votes</th>
-          <th>Name</th>
-          <th></th>
+      <table class="table table-bordered table-striped table-hover">
+        <thead>
+          <tr>
+            <th>Votes</th>
+            <th>Name</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tr ng-repeat="coder in coders | orderBy:'name'">
+          <td>{{ coder.votes }}</td>
+          <td><a href="#/coders/{{coder.id}}">{{ coder.name | uppercase }}</a></td>
+          <td><button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button></td>
         </tr>
-      </thead>
-      <tr ng-repeat="coder in coders">
-        <td>{{ coder.votes }}</td>
-        <td>{{ coder.name }}</td>
-        <td><button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button></td>
-      </tr>
-    </table>
+      </table>
+    </div>
 
   </div>
 </div>
