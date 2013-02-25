@@ -2,10 +2,10 @@
 
 coderContest.controller('CodersController', function($scope, $http) {
 
-  $scope.coders = [];
+  $scope.participants = 42;
 
-  $http.get('/coders').then(function(response) {
-    $scope.coders = response.data;
+  $scope.coders = $http.get('/coders').then(function(response) {
+    return response.data;
   });
 
   $scope.vote = function(coder) {
