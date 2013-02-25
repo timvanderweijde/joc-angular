@@ -23,12 +23,21 @@
           <div class="highlight page-header">
             <h3>TOP CODERS</h3>
           </div>
-          <ul>
-            <li ng-repeat="coder in coders">
-            {{ coder.name }} has {{ coder.votes }} votes.
-            <button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button>
-            </li>
-          </ul>
+
+          <table class="table table-bordered table-striped table-hover">
+            <thead>
+              <tr>
+                <th>Votes</th>
+                <th>Name</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tr ng-repeat="coder in coders">
+              <td>{{ coder.votes }}</td>
+              <td>{{ coder.name }}</td>
+              <td><button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button></td>
+            </tr>
+          </table>
 
         </div>
       </div>
