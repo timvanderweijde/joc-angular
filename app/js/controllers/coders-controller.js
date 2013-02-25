@@ -2,8 +2,6 @@
 
 coderContest.controller('CodersController', function($scope, $http) {
 
-  $scope.participants = 42;
-
   $scope.coders = $http.get('/coders').then(function(response) {
     return response.data;
   });
