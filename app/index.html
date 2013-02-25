@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" ng-app="coderContest">
 
   <head>
     <title>CoderContest | Joy of Coding AngularJS Workshop</title>
@@ -10,16 +10,19 @@
   <body ng-app="coderContest">
     <div class="container">
 
-      <div class="row">
+      <div class="row-fluid">
         <div class="span4"><h3 class="muted">Coder Contest</h3></div>
       </div>
 
-      <div class="row" ng-controller="CodersController">
+      <div class="row-fluid" ng-controller="CodersController">
         <div class="span12">
 
-          There are {{ coders.length }} coders present at Joy of Coding.
+          There are {{ participants }} participants present at Joy of Coding
+          AngularJS session.
 
-          <h4>Top Coders</h4>
+          <div class="highlight page-header">
+            <h3>TOP CODERS</h3>
+          </div>
           <ul>
             <li ng-repeat="coder in coders">
             {{ coder.name }} has {{ coder.votes }} votes.
