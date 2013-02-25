@@ -27,7 +27,7 @@ exports.coder = function(req, res, next) {
 exports.removeCoder = function(req, res, next) {
 
   coders = coders.filter(function(coder) {
-    return coder.id !== req.param('id');
+    return coder.id !== Number(req.param('id'));
   });
 
   res.send(200);
@@ -38,7 +38,7 @@ exports.vote = function(req, res, next) {
 
   coders.forEach(function(coder) {
 
-    if (coder.id+'' === req.param('id')) {
+    if (coder.id === Number(req.param('id'))) {
       coder.votes = Number(req.param('votes'));
       res.send(200, JSON.stringify(coder));
       return;
