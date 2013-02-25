@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" ng-app="coderContest">
 
   <head>
     <title>CoderContest | Joy of Coding AngularJS Workshop</title>
@@ -10,20 +10,28 @@
   <body ng-app="coderContest">
     <div class="container">
 
-      <div class="row">
-        <div class="span4">
-            <h3 class="muted">Coder Contest</h3>
-        </div>
-
-          <ul class="nav nav-pills pull-right">
-              <li><a href="#/home">Home</a></li>
-              <li><a href="#/coders">All coders</a></li>
-              <li><a href="#/about">About</a></li>
-          </ul>
-
+      <div class="row-fluid">
+        <div class="span4"><h3 class="muted">Coder Contest</h3></div>
       </div>
 
-      <div ng-view></div>
+      <div class="row-fluid" ng-controller="CodersController">
+        <div class="span12">
+
+          There are {{ participants }} participants present at Joy of Coding
+          AngularJS session.
+
+          <div class="highlight page-header">
+            <h3>TOP CODERS</h3>
+          </div>
+          <ul>
+            <li ng-repeat="coder in coders">
+            {{ coder.name }} has {{ coder.votes }} votes.
+            <button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button>
+            </li>
+          </ul>
+
+        </div>
+      </div>
 
       <div class="footer">
         <p>&copy; Joy of Coding</p>
@@ -36,7 +44,6 @@
 
     <script src="js/coder-contest.js"></script>
     <script src="js/controllers/coders-controller.js"></script>
-    <script src="js/controllers/coder-detail-controller.js"></script>
 
   </body>
 </html>
