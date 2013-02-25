@@ -1,12 +1,8 @@
 'use strict';
 
-coderContest.controller('CodersController', function($scope, $http) {
+coderContest.controller('CodersController', function($scope, $http, LoadsCoders) {
 
-  $scope.participants = 42;
-
-  $scope.coders = $http.get('/coders').then(function(response) {
-    return response.data;
-  });
+  $scope.coders = LoadsCoders.load();
 
   $scope.vote = function(coder) {
     $http
