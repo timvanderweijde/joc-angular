@@ -14,7 +14,7 @@ exports.coders = function(req, res, next) {
 exports.coder = function(req, res, next) {
 
   coders.forEach(function(coder) {
-    if (coder.id === req.param('id')) {
+    if (coder.id === Number(req.param('id'))) {
       res.send(200, JSON.stringify(coder));
       return;
     }
