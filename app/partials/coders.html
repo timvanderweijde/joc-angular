@@ -1,0 +1,32 @@
+<div class="row-fluid" ng-controller="CodersController">
+  <div class="span12">
+
+    <div class="pull-right">
+        <input type="text" placeholder="Coder name..." class="input-medium search-query" ng-model="search.name">
+    </div>
+
+    <h3>List of coders</h3>
+
+    <table class="table table-bordered table-striped table-hover">
+      <thead>
+        <tr>
+          <th>Votes</th>
+          <th>Name</th>
+          <th></th>
+          <th></th>
+        </tr>
+      </thead>
+      <tr ng-repeat="coder in coders | orderBy:'name' | filter:search">
+        <td>{{ coder.votes }}</td>
+        <td><a href="#/coders/{{ coder.id }}">{{ coder.name | uppercase }}</a></td>
+        <td><button ng-click="coder.vote()" class="btn btn-primary btn-mini">Vote!</button></td>
+        <td>
+          <a class="btn btn-mini btn-primary"
+             href="{{ coder.wikipedia | wikipediaLink }}"
+             ng-show="coder.wikipedia">Wikipedia</a>
+        </td>
+      </tr>
+    </table>
+
+  </div>
+</div>
