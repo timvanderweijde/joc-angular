@@ -4,10 +4,7 @@
     There are {{ participants }} participants present at Joy of Coding
     AngularJS session.
 
-    <div class="pull-right">
-        <input type="text" placeholder="Coder name..." class="input-medium search-query" ng-model="search.name">
-    </div>
-
+  
     <div class="highlight page-header">
       <h3>TOP CODERS</h3>
     </div>
@@ -20,7 +17,7 @@
           <th></th>
         </tr>
       </thead>
-      <tr ng-repeat="coder in coders | orderBy:'name' | filter:search">
+      <tr ng-repeat="coder in coders | orderBy:'name'>
         <td>{{ coder.votes }}</td>
         <td><a href="#/coders/{{ coder.id }}">{{ coder.name | uppercase }}</a></td>
         <td><button ng-click="vote(coder)" class="btn btn-primary btn-mini">Vote!</button></td>
